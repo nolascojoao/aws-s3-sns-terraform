@@ -2,6 +2,9 @@
 
 Este projeto provisiona um bucket S3 com notificações SNS utilizando Terraform.
 
+
+![d1](https://github.com/user-attachments/assets/b3feae2d-c211-4770-8af7-3cfff6c513cc)
+
 ---
 
 ## Comandos Terraform
